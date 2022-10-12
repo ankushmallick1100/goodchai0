@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar Kewot</h1>
-<h3 align="center">I am learning full stack development and trying competitive programming.</h3>
+<h3 align="center">I am a full stack developer and trying competitive programming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goodchai0&label=Profile%20views&color=0e75b6&style=plastic" alt="goodchai0" /> </p>
 
