@@ -6,6 +6,10 @@
 - 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **www.amitkewot@gmail.com**
+ 
+- LinkedIN - **https://www.linkedin.com/in/amit-kumar-bb20621b7/**
+
+- Twitter - **https://twitter.com/AmitKewot**
 
 <p align="left">
 </p>
